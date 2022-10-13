@@ -1,0 +1,19 @@
+{
+    "name": "adi/belajarphp2",
+    "description": "Libary Composer",
+    "type": "libary",
+    "autoload": {
+        "psr-4": {
+            "Adi\\Belajarphp2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mrbongs",
+            "email": "95077897+Mrbongs@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
